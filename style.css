@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 3vh;
+    margin-top: 10vh;
+}
+
+#text-container {
+    text-align: center;
+}
+
+#center-line {
+    display: flex;
+    justify-content: center;
+}
+
+#line {
+    background-color: grey;
+    height: 1px;
+    width: 20vh;
+}
+
+#center-paragraph-container {
+    display: flex;
+    justify-content: center;
+}
+
+#paragraph-container {
+    width: 80%;
+    font-size: 2vh;
+}
